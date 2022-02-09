@@ -4,6 +4,7 @@ const image = { uri: "https://reactjs.org/logo-og.png" };
 export default function App() {
   return (
     
+    
     <View style={styles.container}>
       
       <Text style={{ fontSize:35,marginTop:50,color:'green'}}>PMAS UAAR</Text>
